@@ -15,4 +15,4 @@ Run the following command to run Application.
 ```js
 npm run start
 ```
-or use `node server.js`.
+or use `node app.js`.
