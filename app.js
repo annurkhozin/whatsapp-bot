@@ -8,7 +8,8 @@ if (fs.existsSync(SESSION_FILE_PATH)) {
     sessionCfg = require(SESSION_FILE_PATH);
 }
 
-const client = new Client({ puppeteer: { headless: false }, session: sessionCfg });
+const client = new Client({ puppeteer: { headless: false }, session: sessionCfg }); // kalo ingin membuka browser
+//const client = new Client({ puppeteer: { headless: true }, session: sessionCfg }); // kalo tidak ingin membuka browser
 
 client.on('qr', (qr) => {
     // Generate and scan this code with your phone
