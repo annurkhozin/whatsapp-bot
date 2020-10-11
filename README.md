@@ -16,3 +16,10 @@ Run the following command to run Application.
 npm run start
 ```
 or use `node app.js`.
+
+
+## View more
+
+* [Reference](https://pedroslopez.me/whatsapp-web.js)
+* [Guide](https://waguide.pedroslopez.me/) _(work in progress)_
+* [GitHub](https://github.com/pedroslopez/whatsapp-web.js)
