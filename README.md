@@ -10,7 +10,7 @@ npm install
 
 ### Run Application
 
-Run the following command to run Application.
+Use the npm command to run Application.
 
 ```js
 npm run start
