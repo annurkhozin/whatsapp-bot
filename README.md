@@ -1,5 +1,5 @@
 # whatsapp-bot
-Whatsapp bot on node.js
+Whatsapp bot with node.js
 
 ## Setup
 Use the npm command to install package
